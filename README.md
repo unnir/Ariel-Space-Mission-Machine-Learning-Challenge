@@ -10,7 +10,7 @@ Main files and folders:
 
 `./data` - data folder 
 
-`.jypeter_notebooks` - you can find there my working notebooks, which I used during the competition.
+`./jypeter_notebooks` - you can find there my working notebooks, which I used during the competition.
 
 `inference.py` - generates predictions for submission
 
