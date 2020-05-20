@@ -67,7 +67,7 @@ gym==0.13.1
 h5py==2.9.0
 horovod==0.16.4
 html5lib==1.0.1
-httplib2==0.13.0
+httplib2==0.18.0
 icc-rt==2019.0
 idna==2.8
 imageio==2.5.0
