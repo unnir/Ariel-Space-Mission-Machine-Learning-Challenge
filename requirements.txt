@@ -6,7 +6,7 @@ attrs==19.1.0
 backcall==0.1.0
 bcolz==1.2.1
 binaryornot==0.4.4
-bleach==3.1.4
+bleach==3.3.0
 boto==2.44.0
 bz2file==0.98
 cachetools==3.1.1
