@@ -79,7 +79,7 @@ ipython-sql==0.3.9
 ipywidgets==7.4.2
 itsdangerous==1.1.0
 jedi==0.14.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jinja2-time==0.2.0
 joblib==0.13.2
 jsonschema==3.0.1
